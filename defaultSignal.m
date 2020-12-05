@@ -1,7 +1,7 @@
 %% defining the Parameters for signal.
 h2r = 2 * pi;
 Fs = 48000;
-tStop = 1;
+tStop = 2;
 dt = 1/Fs;
 
 %% Default values for signals.
